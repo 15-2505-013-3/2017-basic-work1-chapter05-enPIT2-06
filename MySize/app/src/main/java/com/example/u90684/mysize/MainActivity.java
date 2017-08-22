@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         editNeck = (EditText) findViewById(R.id.neck);
         editSleeve = (EditText) findViewById(R.id.sleeve);
         editWaist = (EditText) findViewById(R.id.waist);
+
         editInseam = (EditText) findViewById(R.id.inseam);
 
 
